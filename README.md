@@ -1,6 +1,6 @@
 # Welcome
 
-<p>Hi 👋, I'm Soe Moe. I have over 5 years of experience in the web development field. I have experience in web development both frontend and backend. I mostly use the Laravel framework for the backend and Vue.js/React.js for the front end. I like learning new technologies and currently work as a Senior Fullstack Developer.</p>
+<p>Hi 👋, I'm Soe Moe. I'm a seasoned full-stack developer with over 6 years of experience crafting dynamic and user-friendly web applications. My expertise lies in full-stack development, wielding backend power using PHP, Nodejs and frontend finesse with JavaScript frameworks like VueJs(Nuxt), and ReactJs(Next). Throughout my career, I've had the pleasure of delivering diverse web projects, ranging from e-commerce platforms to content management systems, each tailored to meet specific needs and exceed expectations. My technical prowess extends beyond frameworks, encompassing a solid understanding of databases, REST API development, cloud server management, automated testing and version control systems. Moreover, I prioritize clean and maintainable code, ensuring functionality and long-term sustainability.</p>
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soe-moe&label=Profile%20views&color=0e75b6&style=flat" alt="soe-moe" /> </p>
 
