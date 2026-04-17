@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soe Moe Oo</h1>
-<h3 align="center">Software Engineer & Tech Lead</h3>
+<h3 align="center">Lead Software Engineer</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=soe-moe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
@@ -64,7 +64,6 @@
 Effective communication is just as important to me as clean code. I operate professionally across multiple languages:
 * **Burmese:** Native
 * **English:** Fluent
-* **Thai:** Professional Working Proficiency
 
 ---
 
