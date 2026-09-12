@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  With over 7 years of full-stack engineering experience, I specialize in building robust, scalable web applications. I bridge the gap between complex business requirements and technical execution, prioritizing clean code, secure architectures, and the integration of modern AI-driven workflows into the development lifecycle.
+  With over 8 years of full-stack engineering experience, I specialize in building robust, scalable web applications. I bridge the gap between complex business requirements and technical execution, prioritizing clean code, secure architectures, and the integration of modern AI-driven workflows into the development lifecycle.
 </p>
 
 ---
