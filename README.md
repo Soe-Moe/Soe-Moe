@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me
 
 - 🌍 Currently based and working in **Bangkok, Thailand**.
-- 🔭 Focusing heavily on modern frontend and full-stack ecosystems using **React, Next.js, TypeScript, and Tailwind CSS**.
+- 🔭 Focusing heavily on modern frontend and full-stack ecosystems using **React, Next.js, TypeScript, Tailwind CSS, Shadcn** complemented by robust backend technologies including **PHP (Laravel), Go (Gin), and Node.js (Express, NestJS)**.
 - 🧠 Actively utilizing AI-assisted development tools (like Cursor and Claude Code) to streamline project architecture and complex logic migrations.
 - 🤝 Passionate about mentoring the next generation of developers and guiding them through foundational programming and full-stack paths.
 - ⚡ **Fun fact:** When I'm away from the keyboard, you can usually find me playing an attacking game of badminton or catching the latest football matches!
