@@ -27,13 +27,13 @@
 `React` | `Next.js` | `Vue.js` | `Nuxt.js` | `TypeScript` | `JavaScript` | `Tailwind CSS` | `Bootstrap` | `Sass` | `Vite`
 
 **Backend & Databases:**<br>
-`Node.js` | `Express` | `PHP` | `Laravel` | `MySQL` | `PostgreSQL` | `MongoDB` | `Redis`
+`Node.js` | `ExpressJs`| `NestJs` | `PHP` | `Laravel` | `Go` | `Gin` | `MySQL` | `PostgreSQL` | `MongoDB` | `Redis`
 
 **Server & Cloud Architecture:**<br>
-`Linux` | `Nginx` | `Cloud Server Management` | `REST APIs` | `Security Auditing`
+`Linux` | `Nginx` | `Linux Server Administration` | `REST APIs` | `Microservices` | `SOA` | `Security Auditing`
 
 **Infrastructure & Tools:**<br>
-`Git` | `Postman` | `Webpack` | `Cursor` | `Claude Code`
+`Git` | `Docker` | `Postman` | `Webpack` | `Vite` | `Cursor` | `Claude Code`
 
 ---
 
